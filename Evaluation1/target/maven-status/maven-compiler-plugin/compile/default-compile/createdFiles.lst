@@ -1,0 +1,8 @@
+com\bluemaple\DAO\Daoclass.class
+com\bluemaple\dto\GetSetMovie.class
+com\bluemaple\service\Serviceinterface.class
+com\bluemaple\dto\GetSetRegister.class
+com\bluemaple\DAO\Daointerface.class
+com\bluemaple\dto\GetSetLogin.class
+com\bluemaple\exev\Controler.class
+com\bluemaple\service\Servicej.class
